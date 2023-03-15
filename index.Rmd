@@ -8,7 +8,7 @@ site: bookdown::bookdown_site
 description: This is Laura's catch-all space.
 ---
 
-# [Laura's](https://mtl.how/manual) Manual
+# [Laura's](https://ljmoody.github.io/myrepo/) Manual
 
 Welcome to Laura's Manual. Created as a way for her to understand how this whole gh-pages thing works.
 
