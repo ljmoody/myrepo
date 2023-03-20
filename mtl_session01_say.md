@@ -56,14 +56,14 @@ Our DO for this session is to launch _Modeling to Learn_ and select a Team Visio
 
 ### 1. Think of a good learning experience in your team. (5 minutes)
 
-a. First, we want to set ground rules for our learning sessions. **Try to think of a good learning experience in your team. A time when you had an “aha!” something finally made sense, or you could finally do something you couldn’t before.** It can be in a meeting or an informal exchange with a colleague. It can be when you learned a clinic procedure, an idea for treatment with a difficult patient, or when a team member unlocked a mystery of CPRS for you. 
+a. First, we want to set ground rules for our learning sessions. **Try to think of a good learning experience in your team. A time when you had an “aha!” something finally made sense, or you could finally do something you couldn’t before.** It can be in a meeting or an informal exchange with a colleague. It can be when you learned a clinic procedure, an idea for treatment with a difficult patient, or when a team member unlocked a mystery of CPRS for you.
 
 b. **What were the characteristics of the experience?**
 
 c. **Jot down on scratch paper** what it was that made it a good learning experience.
 
 d. **Compile a team list.**
- 
+
 - *Most likely the following are true:*  
   - The learning was hands-on and experiential.
   - The learning is connected to the real world.
@@ -133,11 +133,11 @@ a. **We'll hold this vision up as a reminder of our shared goals to orient our l
 3. Provide leadership during *MTL* sessions, encouraging team participation in discussions and serving as computer simulation lead under co-facilitators' guidance.  
 
 - Ideal characteristics of the Team Lead include:
-   - Having strong relationships with fellow team members;
-   - Being organized;
-   - Having basic computer knowledge (some Excel experience is good);
-   - Attention to detail; and
-   - Commitment to process improvement and the use of data to improve care.
+  - Having strong relationships with fellow team members;
+  - Being organized;
+  - Having basic computer knowledge (some Excel experience is good);
+  - Attention to detail; and
+  - Commitment to process improvement and the use of data to improve care.
 
 ---
 
@@ -146,44 +146,52 @@ a. **We'll hold this vision up as a reminder of our shared goals to orient our l
 - It's important to celebrate milestones and accomplishments.
 
 - Today you can celebrate:
-1. Brainstorming good learning experiences within your Team. 
+
+1. Brainstorming good learning experiences within your Team.
 2. Having a *dream team* vision stemming from your *Best Case Scenario*.
 3. Distilling your Team Vision.
-4. Selecting your Team Lead. 
+4. Selecting your Team Lead.
 
 - There are numerous ways to have a small celebration. Ideas include:
   - High-five each other;
     - If you are unsure of what a high-five is, read [this article](https://en.wikipedia.org/wiki/High_five "What is a high five?").
-  - Make plans to gather after hours for a potluck meal; and 
-  - **Smiling** at each other. 
+  - Make plans to gather after hours for a potluck meal; and
+  - **Smiling** at each other.
 
 ---
+
 # Heading 1
 
 ## Heading 2
 
 ### 8. YAH, Yet Another Heading. (? minutes)
 
-The learner needs to show that she has learned how to: 
-1. Link to illustrations and graphics. 
+The learner needs to show that she has learned how to:
 
-  - An example of a linked illustration - MTL Components:
+1. Link to illustrations and graphics.
+
+- An example of a linked illustration - MTL Components:
 <img src="https://github.com/lzim/teampsd/blob/master/resources/illustrations/mtl_components.png" alt="MTL Components">
 
-  - An example of a linked graphic - improvement notes photo:
+- An example of a linked graphic - improvement notes photo:
 <img src="https://github.com/lzim/teampsd/blob/master/resources/photos/qual/improvement_1of1_2017_10_17.jpeg" alt="Improvement Notes Photo">
 
 2. Create ordered and unordered lists.
-  - This.
-  - List.
-  - Is.
-  - Unordered.
-    1. This. 
+
+- This.
+- List.
+- Is.
+- Unordered.
+
+    1. This.
     2. List.
     3. Is.
+
         - Do not forget apples.
+
           1. Full of carbohydrates.
           2. Something else.
+
   - Just because.
   - End of this crazy list.
 
@@ -209,20 +217,20 @@ The learner needs to show that she has learned how to:
 
 ## DO Demo
 
-1. All team members will receive a post-session email the week after each session from the *Modeling to Learn* staff, with Done and Do reminders and links to the necessary resources; and another pre-session email the week of the upcoming session.  
+1. All team members will receive a post-session email the week after each session from the *Modeling to Learn* staff, with Done and Do reminders and links to the necessary resources; and another pre-session email the week of the upcoming session.
 
-2. We will email the Team Lead to set up a one-time hour prep before our next meeting and work with them to identify your Team's Clinics. 
+2. We will email the Team Lead to set up a one-time hour prep before our next meeting and work with them to identify your Team's Clinics.
 
 3. We will share this list of Clinic Selections with you on our shared the Team channel on Microsoft Teams. Before our next meeting, confirm if these Clinics are the ones that make up your team.
 
-3. Before our next meeting, check to see if you can see your team fdata at mtl.how/data. 
-   - First, go to any browser and type in mtl.how/data in the top search bar. Then, select your VISN. 
-      - This is where you can make clinic selections and access your local team data on a secure VA site. 
+3. Before our next meeting, check to see if you can see your team fdata at mtl.how/data.
+   - First, go to any browser and type in mtl.how/data in the top search bar. Then, select your VISN.
+      - This is where you can make clinic selections and access your local team data on a secure VA site.
    - See if you can click and view your team data.
 
-**Until next time, thank you for _Modeling to Learn_!**  
+**Until next time, thank you for _Modeling to Learn_!**
 
-## Confirm Team Clinic Selections 
+## Confirm Team Clinic Selections
 
 _After identifying the list of Clinics with the Team Lead, to make the Clinics Selections process transparent and accessible to all Team members, we will post them in the shared Microsoft Teams channel for confirmation._
 
@@ -230,11 +238,11 @@ In order to make, view, and export Team Clinic Selections:
 
 1. Go to mtl.how/data.
 2. In the left hand bar, click on the appropriate Consortium and then, VISN.
-3. Enter in the Clinic Selections for the Team, based on the discussion with the Team Lead. 
+3. Enter in the Clinic Selections for the Team, based on the discussion with the Team Lead.
 4. Click "Apply".
-5.  _Note: If you wish to have quick access to these Clinic Selections in the future, you can make a personal bookmark to return to it. See the Facilitator One-Pager for instructions on how to make a personal bookmark._
+5. _Note: If you wish to have quick access to these Clinic Selections in the future, you can make a personal bookmark to return to it. See the Facilitator One-Pager for instructions on how to make a personal bookmark._
 6. Scroll down to the bottom, until you see the **View Clinic Selections** tab in the left hand side.
-7. Hover over the "Clinic Selections" heading and click on the three dots that appear. 
+7. Hover over the "Clinic Selections" heading and click on the three dots that appear.
 8. Click "Export Data" > "Data with Current Layout" > Export.
 9. Repeat steps 7 and 8 with "Team Flow Selections".
 10. Save using our Team naming convention and post the file on the shared Team channel for Team members to view and confirm selections.
