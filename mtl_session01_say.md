@@ -152,8 +152,8 @@ a. **We'll hold this vision up as a reminder of our shared goals to orient our l
 4. Selecting your Team Lead. 
 
 - There are numerous ways to have a small celebration. Ideas include:
-  - High-fiving;
-    - If you are unsure of what high-fiving is, read [this article](https://en.wikipedia.org/wiki/High_five "What is a high five?").
+  - High-five each other;
+    - If you are unsure of what a high-five is, read [this article](https://en.wikipedia.org/wiki/High_five "What is a high five?").
   - Make plans to gather after hours for a potluck meal; and 
   - **Smiling** at each other. 
 
@@ -224,7 +224,7 @@ The learner needs to show that she has learned how to:
 
 ## Confirm Team Clinic Selections 
 
-_After identifying the list of Clinics with the Team Lead, to make the Clinics Selections process transparent and accesible to all Team members, we will post them in the shared Microsoft Teams channel for confirmation._
+_After identifying the list of Clinics with the Team Lead, to make the Clinics Selections process transparent and accessible to all Team members, we will post them in the shared Microsoft Teams channel for confirmation._
 
 In order to make, view, and export Team Clinic Selections:
 
