@@ -2605,6 +2605,7 @@ slave
 sleep
 slice
 slide
+slidy
 slight
 slightly
 slip
