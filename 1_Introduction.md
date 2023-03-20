@@ -1,4 +1,4 @@
-# Introduction - *Laura's Manual* - Take One
+# Introduction: *Laura's Manual* Take One
 
 Introductory text. Really gripping information. 
 
