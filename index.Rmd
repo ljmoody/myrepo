@@ -8,7 +8,7 @@ site: bookdown::bookdown_site
 description: This is Moody's catch-all space.
 ---
 
-# [Moody](https://ljmoody.github.io/myrepo/) Manual
+# [Moody Manual](https://ljmoody.github.io/myrepo/)
 
 Welcome to the Moody Manual. Created as a way to understand how this whole gh-pages thing works.
 
