@@ -1,6 +1,6 @@
 # Introduction: *Laura's Manual* Take One
 
-Introductory text. Really gripping information. 
+Introductory text. Really gripping information.
 
 ## Second Heading
 
