@@ -4,6 +4,6 @@ language:
     chapter_name: "Chapter "
 new_session: yes
 rmd_files: ["index.Rmd", 
-"1_Introduction.md", 
-"2_A_New_Day.md",
-"3_The_Daily_Checklist.md"]
+"1_introduction.md", 
+"2_a_new_day.md",
+"3_the_daily_checklist.md"]
