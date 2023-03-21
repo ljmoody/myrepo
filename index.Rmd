@@ -1,15 +1,15 @@
 ---
-title: "Laura's Manual"
+title: "Moody Manual"
 author: "Laura Moody"
 date: "`r Sys.Date()`"
 link-citations: yes
 preview: yes
 site: bookdown::bookdown_site
-description: This is Laura's catch-all space.
+description: This is Moody's catch-all space.
 ---
 
-# [Laura's](https://ljmoody.github.io/myrepo/) Manual
+# [Moody](https://ljmoody.github.io/myrepo/) Manual
 
-Welcome to Laura's Manual. Created as a way for her to understand how this whole gh-pages thing works.
+Welcome to the Moody Manual. Created as a way to understand how this whole gh-pages thing works.
 
-This manual includes ... unsure yet of what it'll be full of.
+This manual includes ... stuff and words and things.
