@@ -13,6 +13,7 @@ With associated information leading into to this amazing artwork developed by cr
 - Practice takes commitment
 
 ---
+
 ### [Lorem Ipsum](https://loremipsum.io/ "What is Lorem Ipsum?")
 
 - Dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -68,36 +69,36 @@ Mauris pellentesque pulvinar pellentesque habitant. Proin sed libero enim sed fa
 
 At urna condimentum mattis pellentesque. Purus ut faucibus pulvinar elementum integer enim neque. Feugiat scelerisque varius morbi enim nunc faucibus a. Volutpat lacus laoreet non curabitur. Eleifend mi in nulla posuere sollicitudin aliquam. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula. Est ullamcorper eget nulla facilisi etiam dignissim. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Sit amet nisl suscipit adipiscing bibendum est ultricies integer. Faucibus in ornare quam viverra orci sagittis eu volutpat. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Feugiat nibh sed pulvinar proin gravida hendrerit lectus.
 
-## Velit Egestas 
+## Velit Egestas
 
-Dui id ornare arcu odio ut. Auctor urna nunc id cursus. Purus in massa tempor nec feugiat nisl pretium fusce. Libero nunc consequat interdum varius. Feugiat nibh sed pulvinar proin gravida hendrerit. Viverra nibh cras pulvinar mattis nunc. A scelerisque purus semper eget duis at tellus. Fermentum iaculis eu non diam phasellus vestibulum lorem. 
+Dui id ornare arcu odio ut. Auctor urna nunc id cursus. Purus in massa tempor nec feugiat nisl pretium fusce. Libero nunc consequat interdum varius. Feugiat nibh sed pulvinar proin gravida hendrerit. Viverra nibh cras pulvinar mattis nunc. A scelerisque purus semper eget duis at tellus. Fermentum iaculis eu non diam phasellus vestibulum lorem.
 
-### Gravida Neque 
+### Gravida Neque
 
-Donvallis a cras. Morbi quis commodo odio aenean sed adipiscing diam donec adipiscing. Etiam erat velit scelerisque in dictum non consectetur. Praesent tristique magna sit amet purus gravida quis. Urna nunc id cursus metus aliquam. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Eget mauris pharetra et ultrices neque. Et malesuada fames ac turpis egestas integer eget. Libero justo laoreet sit amet. Elit scelerisque mauris pellentesque pulvinar: 
+Donvallis a cras. Morbi quis commodo odio aenean sed adipiscing diam donec adipiscing. Etiam erat velit scelerisque in dictum non consectetur. Praesent tristique magna sit amet purus gravida quis. Urna nunc id cursus metus aliquam. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Eget mauris pharetra et ultrices neque. Et malesuada fames ac turpis egestas integer eget. Libero justo laoreet sit amet. Elit scelerisque mauris pellentesque pulvinar:
 
 1. Mauris
 2. Pharetra
 3. Ultrices
 4. Neque
 
-## Amet Mauris 
+## Amet Mauris
 
-Commodo quis imperdiet massa tincidunt nunc _pulvinar sapien_. Quisque non tellus orci ac auctor augue mauris augue. Lacus viverra vitae congue eu consequat ac. Lorem ipsum dolor sit amet consectetur adipiscing. Urna porttitor rhoncus dolor purus non enim praesent elementum. Diam vulputate ut pharetra sit amet. Leo in vitae turpis massa sed elementum tempus. 
+Commodo quis imperdiet massa tincidunt nunc _pulvinar sapien_. Quisque non tellus orci ac auctor augue mauris augue. Lacus viverra vitae congue eu consequat ac. Lorem ipsum dolor sit amet consectetur adipiscing. Urna porttitor rhoncus dolor purus non enim praesent elementum. Diam vulputate ut pharetra sit amet. Leo in vitae turpis massa sed elementum tempus.
 
-> Natoque penatibus et magnis dis parturient montes. Justo donec enim diam vulputate ut pharetra. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. In ante metus dictum at tempor commodo ullamcorper a. Euismod in pellentesque massa placerat duis ultricies lacus. Nunc faucibus a pellentesque sit amet porttitor eget dolor. At augue eget arcu dictum varius duis at consectetur lorem. Et malesuada fames ac turpis egestas. Mattis nunc sed blandit libero volutpat sed. 
+> Natoque penatibus et magnis dis parturient montes. Justo donec enim diam vulputate ut pharetra. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. In ante metus dictum at tempor commodo ullamcorper a. Euismod in pellentesque massa placerat duis ultricies lacus. Nunc faucibus a pellentesque sit amet porttitor eget dolor. At augue eget arcu dictum varius duis at consectetur lorem. Et malesuada fames ac turpis egestas. Mattis nunc sed blandit libero volutpat sed.
 
-### Massa Tincidunt 
+### Massa Tincidunt
 
 Pharetra sit amet aliquam id.
 
-Orci dapibus ultrices in iaculis nunc. Sit amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Nullam vehicula ipsum a arcu. Auctor elit sed vulputate mi sit amet: 
+Orci dapibus ultrices in iaculis nunc. Sit amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Nullam vehicula ipsum a arcu. Auctor elit sed vulputate mi sit amet:
 
 - Laoreet
 - Ultrices
 - Tincidunt
 - Sodales
-- Neque 
+- Neque
 
 ## Nisi Lacus
 
