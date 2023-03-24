@@ -1,4 +1,4 @@
-# Chapter 2: The Daily Cheklist
+# Chapter 2: The Daily Checklist
 
 This is where a daily checklist is talked about. The pros and cons of having a checklist of daily tasks. When can it be too much structure? How can you still incorporate spontaneity? How do you know if your routine is too rigid?
 
@@ -9,6 +9,7 @@ Accompanying text here. This explains everything really well.
 <img src = "https://github.com/ljmoody/myrepo/blob/gh-pages/images/fresh_food.png?raw=true">
 
 Maybe there's even a list:
+
 1. apple 🍎
 2. orange 🍊
 3. banana 🍌
@@ -44,6 +45,7 @@ Farro platter soba noodles street style Thai basil tacos lemon tahini dressing s
 Refreshing cucumber splash strawberry spinach salad lemonade zest vitamin glow cookies cozy butternut miso turmeric glazed aubergine tomato and basil orange pinch of yum Mexican fiesta figs udon noodles Thai with. Elderberry mangos Thai sun pepper red grapes lavender lemonade blackberries winter cinnamon grains oranges green tea lime falafel bites hearty banh mi salad rolls quinoa flatbread summer banana bread coconut rice Caribbean red habanero.
 
 ### Creamy Cauliflower Alfredo Cremini Mushroom Tower
+
 Green onions coconut milk sleepy morning tea jalapeño bananas Chinese five-spice powder raspberry fizz cilantro green pepper bite sized crispy iceberg lettuce creamiest peanut butter instant pot Bolivian rainbow pepper muffins cherries cool vine tomatoes enchiladas apples seitan morning smoothie bowl Thai super chili cherry bomb Italian pepperoncini. Artichoke hearts edamame seeds chili pepper blueberry pops cashew pomegranate Thai dragon pepper chocolate shiitake mushrooms red amazon pepper.
 
 #### Smoky Maple Tempeh Glaze
@@ -59,4 +61,3 @@ Picnic salad lentils cumin fresh thyme burritos peanut butter crunch green grape
 Basil almond milk fruit smash butternut mix almond milk chai latte açai red pepper balsamic vinaigrette crispy tasty cremini mushrooms pasta ginger tofu comforting pumpkin spice latte hot ultimate fall.
 
 <img src = "https://github.com/ljmoody/myrepo/blob/gh-pages/images/fruit_veg_script.png?raw=true">
-
