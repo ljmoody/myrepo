@@ -5,6 +5,7 @@ What is the way you start your day? Have you perfected your routine? Some find t
 ## Ways to Start the Day
 
 Are you wondering how to fine tune the beginning of your day? What follows is an example of a morning routine that works for a male relative:
+
 - wake
 - drink a cup of coffee ☕️
 - exercise, preferably outdoors 🚴‍♀️
