@@ -22,7 +22,7 @@ create-what-you-love
 happy-little-stones
 happy-little-clouds
 perspectives
-chapter-2-the-daily-cheklist
+chapter-2-the-daily-checklist
 second-level-heading-1
 wrap-up
 vegan-section
