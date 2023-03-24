@@ -9,7 +9,6 @@ Accompanying text here. This explains everything really well.
 <img src = "https://github.com/ljmoody/myrepo/blob/gh-pages/images/fresh_food.png?raw=true">
 
 Maybe there's even a list:
-
 1. apple 🍎
 2. orange 🍊
 3. banana 🍌
