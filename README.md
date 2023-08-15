@@ -24,3 +24,13 @@ text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~ tex
 2. **this one is _really_ special**
 
 ###### Headings only go down 6 levels
+
+Do these alerts really work?
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
