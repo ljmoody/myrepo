@@ -35,9 +35,16 @@ Do these alerts really work?
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
 
-## Hex Color Codes
-Research: '#598527'
-Development: '#0083BE'
-Operations: '#685bc7'
-Co-coordinated: '#003F72'
-Cross-cutting: '#C4262E'
+## Workflow Color & Hex Codes
+| Color | Workflow | Hex Code |
+|:--:|:--|:--:|
+|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/598527?style=round'/></a>|Research|`#598527`|
+|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/0083BE?style=round'/></a>|Development|`0083BE`|
+|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/685bc7?style=round'/></a>|Operations|`685bc7`|
+|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/6f7681?style=round'/></a>|Co-coordinated|`6f7681`|
+|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/4C535D?style=round'/></a>|High Level Cross-cutting|`4C535D`|
+
+- To left-align a column, put a colon to the left of two dashes `:--`.
+- Three dashes `---` can also be used.
+- To right-align, put a colon to the right of two dashes `--:`.
+- To center-align, surround a dash with two colons `:-:`.
