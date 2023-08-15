@@ -34,3 +34,10 @@ Do these alerts really work?
 
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
+
+## Hex Color Codes
+Research: #598527
+Development: #0083BE
+Operations: #685bc7
+Co-coordinated: #003F72
+Cross-cutting: #C4262E
