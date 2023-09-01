@@ -35,6 +35,13 @@ Do these alerts really work?
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
 
+These might be other options to use:
+> :warning: **Warning:** Do not push the big red button.
+
+> :memo: **Note:** Sunrises are beautiful.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life.
+
 ## Workflow Color & Hex Codes
 | Color | Workflow | Hex Code |
 |:--:|:--|:--:|
