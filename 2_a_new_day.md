@@ -75,3 +75,7 @@ Bob Ross had a unique perspective. What follows is a small collection of things 
 - Just relax and let it flow.
 - You create the dream - then you bring it into your world.
 - The secret to doing anything is believing that you can do it. Anything that you believe you can do strong enough, you can do. _Anything._ As long as you **believe**.
+
+### Additions
+
+These are additions to the file. Next, we'll create a pull request to pull these changes into the existing gh-pages branch. 
