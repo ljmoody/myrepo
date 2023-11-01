@@ -8,6 +8,15 @@ With associated information leading into to this amazing artwork developed by cr
 
 <img src = "https://github.com/ljmoody/myrepo/blob/gh-pages/images/crayon_art.png?raw=true">
 
+With associated information leading into to this amazing artwork developed by crayons:
+
+<img src = "https://github.com/ljmoody/myrepo/blob/gh-pages/images/crayon_art.png?raw=true" "alt text">
+
+With associated information leading into to this amazing artwork developed by crayons:
+
+<img src = "https://github.com/ljmoody/myrepo/blob/gh-pages/images/crayon_art.png?raw=true" alt="This is my alt text">
+
+
 - Drawings are a window to a person's soul
 - Creativity takes time
 - Practice takes commitment
