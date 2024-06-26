@@ -55,3 +55,4 @@ These might be other options to use:
 - Three dashes `---` can also be used.
 - To right-align, put a colon to the right of two dashes `--:`.
 - To center-align, surround a dash with two colons `:-:`.
+- To hide text in an html comment, use this: `<!-- Text to hide goes here. -->`.
