@@ -2,6 +2,9 @@
 
 What is the way you start your day? Have you perfected your routine? Some find that beginning the day with a set routine helps the rest of the day fall into place.
 
+See the [Perspectives](#perspectives) section for fun!
+This is a link to [Create What You Love](#create-what-you-love).
+
 ## Ways to Start the Day
 
 Are you wondering how to fine tune the beginning of your day? What follows is an example of a morning routine that works for a male relative:

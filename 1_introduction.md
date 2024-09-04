@@ -2,6 +2,17 @@
 
 Introductory text. Really gripping information.
 
+To learn about GitHub and to create a GitHub Pages site, it's important to focus on:
+
+- understanding how GitHub provides version control for files
+- understanding how GitHub uses issues to manage work, conversations, and manage projects
+- navigating to different repositories and looking through the tabs available
+- learning Markdown
+- learning the basics of issues and pull requests (with some 'real life' practice before being unleashed on an actual project)
+- learning about linter action errors and what to do with those
+- placeholder
+- placeholder
+
 ## Second-level Heading
 
 With associated information leading into to this amazing artwork developed by crayons:
