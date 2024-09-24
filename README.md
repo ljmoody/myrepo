@@ -41,7 +41,7 @@ These might be other options to use:
 - Helpful inline formatting info: [click here](https://bookdown.org/yihui/bookdown/markdown-syntax.html#inline-formatting)
 
 ## Linking within a gh-pages document:
-To link within a page, use this coding: `[Text you want linked](#name_of_chapter/section)`, where the name is an exact replica of the heading you're linking to, without any capitalization. 
+To link within a page, use this coding: `[Text you want linked](#name-of-chapter/section)`, where the name is an exact replica of the heading you're linking to, without any capitalization. 
 
 ---
 
