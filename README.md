@@ -14,6 +14,19 @@ The **gh-pages branch** contains markdown files for my Pages site: [https://ljmo
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
 
+> [!CAUTION]  
+> blah de blah.
+
+> [!TIP]  
+> blah de blah
+
+Use `<strike> and </strike>` to strikethrough a large chunk of information. Like this:
+
+<strike>
+  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</strike>
+
+
 These might be other options to use:
 > :warning: **Warning:** Do not push the big red button.
 
