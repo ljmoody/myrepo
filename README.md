@@ -4,7 +4,32 @@ It might not be pretty, but it's something.
 
 The **gh-pages branch** contains markdown files for my Pages site: [https://ljmoody.github.io/myrepo/](https://ljmoody.github.io/myrepo/ "Moody Manual").
 
-## Check out the alerts:
+---
+# Helpful Quick Access
+
+## Formatting
+
+### Code Blocks
+
+- Use a single backtick immediately before and after text: ``` `example` ```
+- Use three backticks immediately before and after text if you want to show the backticks.
+
+### Strikethrough
+
+- For small chunks, use a single tilde before and after text you wish to strikethrough will work: ~I want to draw a line through this text.~
+
+- Use `<strike> and </strike>` to strikethrough a large chunk of information. Like this:
+
+<strike>
+  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</strike>
+
+### Links
+
+- To link within a gh-pages document, use this coding: `[Text you want linked](#name-of-chapter/section)`, where the name is an exact replica of the heading you're linking to, without any capitalization. 
+
+## Spiffy Alert Icons
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
@@ -20,24 +45,21 @@ The **gh-pages branch** contains markdown files for my Pages site: [https://ljmo
 > [!TIP]  
 > blah de blah
 
-Use `<strike> and </strike>` to strikethrough a large chunk of information. Like this:
+- These might be other options to use. They must have a paragraph space before and after for the icon to show properly.
 
-<strike>
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-</strike>
+:warning: **Warning:** Do not push the big red button.&mdash;`:warning:`
 
-
-These might be other options to use:
-> :warning: **Warning:** Do not push the big red button.
-
-> :memo: **Note:** Sunrises are beautiful.
-
-> :bulb: **Tip:** Remember to appreciate the little things in life.
+:memo: **Note:** Sunrises are beautiful.&mdash;`:memo:`
+ 
+:bulb: **Tip:** Remember to appreciate the little things in life.&mdash;`:bulb:`
 
 ## Emojis
 👉 Here's a [complete list of GitHub markdown emoji markup](https://gist.github.com/rxaviers/7360908). 😄
 
-## Workflow Color & Hex Codes
+## Tables
+
+Workflow color & hex codes table
+
 | Color | Workflow | Hex Code |
 |:--:|:--|:--:|
 |<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/598527?style=round'/></a>|Research|`#598527`|
@@ -53,15 +75,7 @@ These might be other options to use:
 - To hide text in an html comment, use this: `<!-- Text to hide goes here. -->`.
 - Helpful inline formatting info: [click here](https://bookdown.org/yihui/bookdown/markdown-syntax.html#inline-formatting)
 
-## Linking within a gh-pages document:
-To link within a page, use this coding: `[Text you want linked](#name-of-chapter/section)`, where the name is an exact replica of the heading you're linking to, without any capitalization. 
-
 ---
-
-text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~ text ~
-
----
-
 # Learning _Markdown_
 
 ## Second-level Heading
