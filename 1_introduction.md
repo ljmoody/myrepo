@@ -10,7 +10,7 @@ To learn about GitHub and to create a GitHub Pages site, it's important to focus
 - learning Markdown
 - learning the basics of issues and pull requests (with some 'real life' practice before being unleashed on an actual project)
 - learning about linter action errors and what to do with those
-- placeholder
+- lpaceholder
 - placeholder
 
 ## Second-level Heading
