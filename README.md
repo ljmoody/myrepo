@@ -26,7 +26,20 @@ The **gh-pages branch** contains markdown files for my Pages site: [https://ljmo
 
 ### Links
 
-- To link within a gh-pages document, use this coding: `[Text you want linked](#name-of-chapter/section)`, where the name is an exact replica of the heading you're linking to, without any capitalization. 
+#### Internal Links
+
+- To link within a gh-pages document, use this coding: `[Text you want linked](#name-of-chapter/section)`, where the name is an exact replica of the heading you're linking to, without any capitalization.
+  - The syntax to use to refer to heading "Manage Teams" is : `[Manage Teams](#manage-teams)`
+- For a linked heading that has special characters (like parens), like "Upload Data File(s)", basicically ignore special characters: `[Upload Data File(s)](#upload-data-files)`
+
+#### Extermal Links
+
+- The syntax to use is : `[text you want to link](URL of linked content)`
+  - Example: I want to learn how to high five. To do that, I need to read [this article](https://en.wikipedia.org/wiki/High_five). 
+
+### Special Characters
+
+- Em dash = `&mdash;` = &mdash;
 
 ## Spiffy Alert Icons
 
