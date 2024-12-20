@@ -18,12 +18,17 @@ The **gh-pages branch** contains markdown files for my Pages site: [https://ljmo
 
 - For small chunks, use a single tilde before and after text you wish to strikethrough will work: ~I want to draw a line through this text.~
 
-- Use `<strike> and </strike>` to strikethrough a large chunk of information. Like this:
-
+- Use `<strike> and </strike>` to strikethrough a large chunk of information.  Like this:
 <strike>
   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+- one thing
+- another thing
+- and another
 </strike>
 
+**Sometimes** it might be necessary to add a hard return after the initial or before the closing `<strike>` tag to keep text formatted _and_ apply strikethrough.
+  
 ### Links
 
 #### Internal Links
